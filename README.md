@@ -1,8 +1,8 @@
 Hi there 👋
 
-I'm a full-stack web developer based in Berlin.
+I'm Lena, Berlin based Full-stack Developer.
 
-👩🏻‍💻 I have recently graduated from Le Wagon coding bootcamp.
+👩🏻‍💻 I have recently graduated from Le Wagon coding bootcamp and joined the team as a Teaching Assistant.
 
 📚 I’m currently working on my own projects, developing skills in JavaScript and learning more about UI/UX design.
 
