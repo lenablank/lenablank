@@ -1,8 +1,8 @@
 Hi there 👋
 
-I'm Lena, Berlin-based Full-stack Developer.
+I'm Lena, Berlin-based Frontend Developer.
 
-👩🏻‍💻 I have graduated from Le Wagon coding bootcamp and joined the team as a Teaching Assistant for a front-end module.
+👩🏻‍💻 I have graduated from Le Wagon coding bootcamp and worked as a Teaching Assistant for a frontend module.
 
 📚 I’m currently working on my own projects, developing skills in React and learning more about UI/UX design.
 
