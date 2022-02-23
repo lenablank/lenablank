@@ -4,7 +4,7 @@ I'm Lena, Berlin-based Frontend Developer.
 
 👩🏻‍💻 I graduated from Le Wagon coding bootcamp in 2021.
 
-📚 Currently enriolled in CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
+📚 Currently enrolled in CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
 
 🤓 I like to challenge myself, learn and create.
 
